@@ -5,3 +5,4 @@ git
 -apa itu repository
 -apa iu branch
 -apa itu merge
+-apa itu pull request
