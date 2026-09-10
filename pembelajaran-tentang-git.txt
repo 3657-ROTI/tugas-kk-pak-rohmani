@@ -1,0 +1,7 @@
+git
+-apa itu git
+-apa iitu github
+-apa itu commits
+-apa itu repository
+-apa iu branch
+-apa itu merge
